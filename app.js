@@ -1,5 +1,5 @@
 function calcularTotal (itens) {
-    let total = 0
+    let total = 1
     
     for (ley i = 0; i <itens.length; i++){
         total += itens[i].preco 
